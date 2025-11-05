@@ -7,3 +7,4 @@ This is my third change
 This is my 4th change
 This is my 5th change
 This is my 6th change
+This is my 7th change
